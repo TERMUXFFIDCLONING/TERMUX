@@ -149,7 +149,7 @@ def back():
 	login()
 	
 	import getpass
-
+	
 attemps = 0
 print (f'''
 #while attemps < 12345677901:
@@ -164,8 +164,6 @@ print (f'''
       #  attemps += 1
        #' continue
 os.system('clear')
-#------------------[ MAIN ]-----------------#
-
 'os.system("espeak -a 300 " Your,   Real,  Name,')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
 'os.system('espeak -a 300 " Welcome,   to,  Tutul,  King,  Tools"')
@@ -419,7 +417,7 @@ def passwrd():
 	banner()
 	print(f"\033[97;1m[\033[92;1m+\033[97;1m]\033[1;92m USER NAME\033[1;91m :\033[1;96m "+NameX)
 	print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mTODAY S DATE :
-	print('\033[97;1m['\033[92;1m+\033[97;1m] \033[0;92m'YOURTOTAL IDz :\033[0;97m '+str(len(id)))
+	print('\033[97;1m['\033[92;1m+\033[97;1m] \033[0;92m'YOUR TOTAL IDz :\033[0;97m '+str(len(id)))
 	print(''\033[97;1m[\033[92;1m+\033[97;1m] \033[0;95m" STARTED YOUR CLONING TIME :> 
 	print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;95m" Cloning SPEED SUPER FAST-!✅'')
 	print('\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92"mUse Flight Mode For Speed up
